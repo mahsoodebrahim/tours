@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 const Tour = () => {
-  return <div></div>;
+  return <h2>tour component</h2>;
 };
 
 export default Tour;
